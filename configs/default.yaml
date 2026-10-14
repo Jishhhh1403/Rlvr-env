@@ -1,0 +1,31 @@
+# LedgerGym default configuration: families, difficulty knobs, reward weights.
+reward:
+  mode: shaped            # binary | shaped | gradient
+  weights:
+    correctness: 0.80
+    format: 0.10
+    intermediate: 0.10
+  length_penalty: 0.10    # applied to empty or overlong output (negative contribution)
+  min_length_chars: 20
+  max_length_chars: 4000
+  gradient_scale: 0.05    # gradient mode: relative error at which credit decays to 1/e
+
+curriculum:
+  window: 50              # rolling episodes per family used for pass rate
+  up_threshold: 0.70      # pass rate above this -> harder tasks
+  down_threshold: 0.30    # pass rate below this -> easier tasks
+  easier_mix: 0.15        # share of easier episodes mixed in to prevent forgetting
+  easier_mix_span: 2      # how many levels easier the mixed-in episodes are
+  min_difficulty: 1
+  max_difficulty: 10
+
+families:
+  loan_math:
+    min_difficulty: 1
+    max_difficulty: 10
+  reconciliation:
+    min_difficulty: 1
+    max_difficulty: 10
+  trend:
+    min_difficulty: 1
+    max_difficulty: 10

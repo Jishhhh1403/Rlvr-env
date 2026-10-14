@@ -1,0 +1,29 @@
+# Binary-reward ablation (Section 5.2): correctness only, 1 or 0.
+# Everything else matches grpo_shaped.yaml so the two runs are comparable.
+model_name: Qwen/Qwen2.5-0.5B-Instruct
+seed: 0
+dataset_size: 2048
+curriculum: true
+reward_mode: binary
+report_to: none
+output_dir: runs/ledgergym-grpo-binary
+ledger_config: configs/default.yaml
+
+lora:
+  enabled: true
+  r: 16
+  alpha: 32
+  dropout: 0.05
+
+grpo:
+  learning_rate: 1.0e-6
+  num_generations: 4
+  per_device_train_batch_size: 4
+  gradient_accumulation_steps: 4
+  max_prompt_length: 1024
+  max_completion_length: 1024
+  max_steps: 500
+  beta: 0.02
+  temperature: 1.0
+  logging_steps: 5
+  save_steps: 100

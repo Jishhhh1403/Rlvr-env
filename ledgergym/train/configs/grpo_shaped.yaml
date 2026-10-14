@@ -1,0 +1,28 @@
+# Shaped-reward GRPO run (default configuration from Section 9).
+model_name: Qwen/Qwen2.5-0.5B-Instruct
+seed: 0
+dataset_size: 2048
+curriculum: true
+reward_mode: shaped
+report_to: none
+output_dir: runs/ledgergym-grpo-shaped
+ledger_config: configs/default.yaml
+
+lora:
+  enabled: true
+  r: 16
+  alpha: 32
+  dropout: 0.05
+
+grpo:
+  learning_rate: 1.0e-6
+  num_generations: 4
+  per_device_train_batch_size: 4
+  gradient_accumulation_steps: 4
+  max_prompt_length: 1024
+  max_completion_length: 1024
+  max_steps: 500
+  beta: 0.02
+  temperature: 1.0
+  logging_steps: 5
+  save_steps: 100

@@ -1,0 +1,1227 @@
+{
+  "version": 1,
+  "created": "2026-10-14",
+  "base_seed": 20261014,
+  "in_distribution": [
+    {
+      "seed": 20262090,
+      "family": "loan_math",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262097,
+      "family": "loan_math",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262104,
+      "family": "loan_math",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262111,
+      "family": "loan_math",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262118,
+      "family": "loan_math",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263090,
+      "family": "loan_math",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263097,
+      "family": "loan_math",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263104,
+      "family": "loan_math",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263111,
+      "family": "loan_math",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263118,
+      "family": "loan_math",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264090,
+      "family": "loan_math",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264097,
+      "family": "loan_math",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264104,
+      "family": "loan_math",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264111,
+      "family": "loan_math",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264118,
+      "family": "loan_math",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265090,
+      "family": "loan_math",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265097,
+      "family": "loan_math",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265104,
+      "family": "loan_math",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265111,
+      "family": "loan_math",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265118,
+      "family": "loan_math",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266090,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266097,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266104,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266111,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266118,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267090,
+      "family": "loan_math",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267097,
+      "family": "loan_math",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267104,
+      "family": "loan_math",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267111,
+      "family": "loan_math",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267118,
+      "family": "loan_math",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268090,
+      "family": "loan_math",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268097,
+      "family": "loan_math",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268104,
+      "family": "loan_math",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268111,
+      "family": "loan_math",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268118,
+      "family": "loan_math",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269090,
+      "family": "loan_math",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269097,
+      "family": "loan_math",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269104,
+      "family": "loan_math",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269111,
+      "family": "loan_math",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269118,
+      "family": "loan_math",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270090,
+      "family": "loan_math",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270097,
+      "family": "loan_math",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270104,
+      "family": "loan_math",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270111,
+      "family": "loan_math",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270118,
+      "family": "loan_math",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271090,
+      "family": "loan_math",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271097,
+      "family": "loan_math",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271104,
+      "family": "loan_math",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271111,
+      "family": "loan_math",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271118,
+      "family": "loan_math",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262109,
+      "family": "reconciliation",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262116,
+      "family": "reconciliation",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262123,
+      "family": "reconciliation",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262130,
+      "family": "reconciliation",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262137,
+      "family": "reconciliation",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263109,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263116,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263123,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263130,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263137,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264109,
+      "family": "reconciliation",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264116,
+      "family": "reconciliation",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264123,
+      "family": "reconciliation",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264130,
+      "family": "reconciliation",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264137,
+      "family": "reconciliation",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265109,
+      "family": "reconciliation",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265116,
+      "family": "reconciliation",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265123,
+      "family": "reconciliation",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265130,
+      "family": "reconciliation",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265137,
+      "family": "reconciliation",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266109,
+      "family": "reconciliation",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266116,
+      "family": "reconciliation",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266123,
+      "family": "reconciliation",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266130,
+      "family": "reconciliation",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266137,
+      "family": "reconciliation",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267109,
+      "family": "reconciliation",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267116,
+      "family": "reconciliation",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267123,
+      "family": "reconciliation",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267130,
+      "family": "reconciliation",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267137,
+      "family": "reconciliation",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268109,
+      "family": "reconciliation",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268116,
+      "family": "reconciliation",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268123,
+      "family": "reconciliation",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268130,
+      "family": "reconciliation",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268137,
+      "family": "reconciliation",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269109,
+      "family": "reconciliation",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269116,
+      "family": "reconciliation",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269123,
+      "family": "reconciliation",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269130,
+      "family": "reconciliation",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269137,
+      "family": "reconciliation",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270109,
+      "family": "reconciliation",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270116,
+      "family": "reconciliation",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270123,
+      "family": "reconciliation",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270130,
+      "family": "reconciliation",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270137,
+      "family": "reconciliation",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271109,
+      "family": "reconciliation",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271116,
+      "family": "reconciliation",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271123,
+      "family": "reconciliation",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271130,
+      "family": "reconciliation",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271137,
+      "family": "reconciliation",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262034,
+      "family": "trend",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262041,
+      "family": "trend",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262048,
+      "family": "trend",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262055,
+      "family": "trend",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20262062,
+      "family": "trend",
+      "difficulty": 1,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263034,
+      "family": "trend",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263041,
+      "family": "trend",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263048,
+      "family": "trend",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263055,
+      "family": "trend",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20263062,
+      "family": "trend",
+      "difficulty": 2,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264034,
+      "family": "trend",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264041,
+      "family": "trend",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264048,
+      "family": "trend",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264055,
+      "family": "trend",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20264062,
+      "family": "trend",
+      "difficulty": 3,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265034,
+      "family": "trend",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265041,
+      "family": "trend",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265048,
+      "family": "trend",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265055,
+      "family": "trend",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20265062,
+      "family": "trend",
+      "difficulty": 4,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266034,
+      "family": "trend",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266041,
+      "family": "trend",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266048,
+      "family": "trend",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266055,
+      "family": "trend",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20266062,
+      "family": "trend",
+      "difficulty": 5,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267034,
+      "family": "trend",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267041,
+      "family": "trend",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267048,
+      "family": "trend",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267055,
+      "family": "trend",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20267062,
+      "family": "trend",
+      "difficulty": 6,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268034,
+      "family": "trend",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268041,
+      "family": "trend",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268048,
+      "family": "trend",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268055,
+      "family": "trend",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20268062,
+      "family": "trend",
+      "difficulty": 7,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269034,
+      "family": "trend",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269041,
+      "family": "trend",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269048,
+      "family": "trend",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269055,
+      "family": "trend",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20269062,
+      "family": "trend",
+      "difficulty": 8,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270034,
+      "family": "trend",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270041,
+      "family": "trend",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270048,
+      "family": "trend",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270055,
+      "family": "trend",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20270062,
+      "family": "trend",
+      "difficulty": 9,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271034,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271041,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271048,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271055,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    },
+    {
+      "seed": 20271062,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": null,
+      "split": "in_distribution"
+    }
+  ],
+  "out_of_distribution": [
+    {
+      "seed": 20761037,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": "rate_comparison",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761050,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": "rate_comparison",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761063,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": "rate_comparison",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761076,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": "rate_comparison",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761089,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": "rate_comparison",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761102,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": "rate_comparison",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761115,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": "rate_comparison",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761128,
+      "family": "loan_math",
+      "difficulty": 5,
+      "variant": "rate_comparison",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761050,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": "balance_mismatch",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761063,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": "balance_mismatch",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761076,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": "balance_mismatch",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761089,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": "balance_mismatch",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761102,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": "balance_mismatch",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761115,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": "balance_mismatch",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761128,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": "balance_mismatch",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761141,
+      "family": "reconciliation",
+      "difficulty": 2,
+      "variant": "balance_mismatch",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761049,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": "liquidity",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761062,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": "liquidity",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761075,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": "liquidity",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761088,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": "liquidity",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761101,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": "liquidity",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761114,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": "liquidity",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761127,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": "liquidity",
+      "split": "out_of_distribution"
+    },
+    {
+      "seed": 20761140,
+      "family": "trend",
+      "difficulty": 10,
+      "variant": "liquidity",
+      "split": "out_of_distribution"
+    }
+  ]
+}
